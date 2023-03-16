@@ -33,10 +33,18 @@ button:focus {
 
   .top{
     background-color:#5e3370;
-    padding:10px;
+    padding:2px;
     text-align:center;
     color: #ffffff;
   }
+
+  .home {
+    width: 100%;
+    padding: 15px;
+    margin-top: 30px;
+    background-color: #ffffff;
+  }
+  
   
   .menu {
     float: left;
